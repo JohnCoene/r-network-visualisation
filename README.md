@@ -16,6 +16,7 @@ List of R packages for *network visualisation*.
 - [aforce](https://aforce.john-coene.com/)
 - [plotly](https://plot.ly/r/)
 - [echarts4r](https://echarts4r.john-coene.com/)
+- [particles](https://github.com/thomasp85/particles)
 
 ## Static
 
