@@ -17,6 +17,7 @@ List of R packages for *network visualisation*.
 - [plotly](https://plot.ly/r/)
 - [echarts4r](https://echarts4r.john-coene.com/)
 - [particles](https://github.com/thomasp85/particles)
+- [highcharter](http://jkunst.com/highcharter/)
 
 ## Static
 
